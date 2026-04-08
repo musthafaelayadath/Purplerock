@@ -5,7 +5,7 @@
 </head>
 <body>
 
-{% block content %}{% endblock %}
+{% block content %}{% endblock content %}
 
 </body>
 </html>
